@@ -6,7 +6,7 @@
 
 
 ## Other resources
-1. [Free javascript course by Wes Bos](https://javascript30.com/) - C of Lamin Barrow
+1. [Free javascript course by Wes Bos](https://javascript30.com/) - C of [Lamin Barrow](http://lbarrow.com/)
 
 
 
