@@ -18,3 +18,13 @@
 
 
 
+***
+
+## Pages
+* [Projects](projects.md)
+* [Log](log.md)
+* [Resources](resources.md)
+
+
+
+

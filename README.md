@@ -12,7 +12,7 @@ The purpose of this code meet-up is to learn together by following the principle
 **This repo will be updated as we move on, please make sure to check back once a while.**
 
 ## How to get started
-To started, fork this repo and commit to the [Log](log.md) weekly. Once your fork the repo you can update the log.md file with your own content/details
+To get started, fork this repo and commit to the [Log](log.md) weekly. Once your fork the repo you can update the log.md file with your own content/details
 
 ## Rules
 * You will log your weekly progress in the log file and push the log to GitHub at the end of every week.
@@ -36,3 +36,11 @@ If you like this repo and find it useful, please consider &#9733; starring it (o
 
 ## Credits
 Ka11away 100DaysOfCode project [@ka11away](https://twitter.com/ka11away)
+
+
+***
+
+## Pages
+* [Projects](projects.md)
+* [Log](log.md)
+* [Resources](resources.md)

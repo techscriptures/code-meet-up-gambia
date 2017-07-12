@@ -7,3 +7,13 @@
 
 ## Other resources
 1. [Free javascript course by Wes Bos](https://javascript30.com/) - C of Lamin Barrow
+
+
+
+
+***
+
+## Pages
+* [Projects](projects.md)
+* [Log](log.md)
+* [Resources](resources.md)
