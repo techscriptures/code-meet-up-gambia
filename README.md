@@ -34,8 +34,7 @@ If you have any questions or ideas about code meetup Gambia (or other ideas), fe
 
 If you like this repo and find it useful, please consider &#9733; starring it (on top right of the page) :)
 
-## Credits
-Ka11away 100DaysOfCode project [@ka11away](https://twitter.com/ka11away)
+Inspired by Ka11away [100DaysOfCode](https://github.com/Kallaway/100-days-of-code) project [@ka11away](https://twitter.com/ka11away)
 
 
 ***
