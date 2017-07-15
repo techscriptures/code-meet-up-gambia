@@ -8,15 +8,15 @@
 
 
 ## Other coding sites
-1. [Codecademy]()
+1. [Codecademy](https://www.codecademy.com)
 2. [The Odin Project](http://www.theodinproject.com/)
 
 
 ## Books (On Islam and coding)
 
 ### Islam
-1. [Purification of the soul - Imam Gazali]()
-2. [Purification of the Heart - Hamza Yusuf]()
+1. [Purification of the soul - Imam Gazali](http://www.muslim-library.com/dl/books/English_Purification_of_the_Soul.pdf)
+
 
 ### Coding
 1. "Professional Node.js" by Teixeira
