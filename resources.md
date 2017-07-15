@@ -15,8 +15,8 @@
 ## Books (On Islam and coding)
 
 ### Islam
-1. [Purification of the soul - Imam Gazali]
-2. [Purification of the Heart - Hamza Yusuf]
+1. [Purification of the soul - Imam Gazali]()
+2. [Purification of the Heart - Hamza Yusuf]()
 
 ### Coding
 1. "Professional Node.js" by Teixeira

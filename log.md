@@ -4,9 +4,9 @@
 
 **Week's Progress:**
 
-Made a reusable mini HTML and CSS starter template to get up and running quickly on the projects.
+Made a reusable mini HTML and CSS starter template to get up and running quickly on the projects. Included normalize css for cross browser consistency
 
-Build the tribute page on top of the mini HTML and CSS starter template. Also added a Google font, Droid Serif, in order to have a beautiful type face. Tried as much as possible to use the appropriate (semantic) element for each content before coding it.  
+Build the tribute page on top of the mini HTML and CSS starter template. Also added a Google font, Droid Serif, in order to have a beautiful type face. Tried as much as possible to use the appropriate (semantic) element for each content.  
 
 **Thoughts:** 
 
