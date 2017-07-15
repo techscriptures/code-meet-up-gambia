@@ -1,5 +1,14 @@
 # Projects - Code Meet-up Gambia.
 
+## freeCodeCamp Project requirement
+
+* Fulfill the user stories by getting all of the tests to pass. Use whichever libraries you need. Give it your own personal style.
+* The link for the working example are below for each project. Try not to look at its code.
+* Use this CDN link to run the tests in any environment you like: https://gitcdn.link/repo/freeCodeCamp/testable-projects-fcc/master/build/bundle.js
+* Once you're done, submit the URL to your working project with all its tests passing.
+* Remember to contact one of us and/or use the [Read-Search-Ask](https://forum.freecodecamp.com/t/how-to-get-help-when-you-are-stuck/19514) method if you get stuck.
+
+
 ## Week 1
 1. Build a Tribute Page - [Tribute Page](https://codepen.io/freeCodeCamp/full/zNqgVx)
 2. Build a Survey Form - [Survey Form](https://codepen.io/freeCodeCamp/full/VPaoNP)
